@@ -9,7 +9,7 @@ public class Doctor {
     private String name;
     private int age;
       
-    public Doctor(int ade, String name) {
+    public Doctor(String name) {
     this.age = age;
     this.name=name;
      }
